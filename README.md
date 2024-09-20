@@ -1,7 +1,7 @@
 
 **👋 Hi there! I'm Matthew Kolodzej**
 
-Senior Software Engineering Lead | Cloud Solutions & System Modernization Expert
+*Senior Software Engineering Lead | Cloud Solutions & System Modernization Expert*
 
 Welcome to my GitHub profile! With over 15 years of experience in the tech industry, I specialize in designing, developing, and maintaining robust, scalable enterprise integrations and APIs. My passion lies in optimizing large-scale integrations, transitioning legacy systems to modern microservices architectures, and driving innovations in cloud-native application development.
 
