@@ -1,29 +1,39 @@
+## Hi there, I'm Matt Kolodzej
 
-**👋 Hi there! I'm Matthew Kolodzej**
+**Senior software engineer & team lead — high-risk modernization of mission-critical systems.**
 
-*Senior Software Engineering Lead | Cloud Solutions & System Modernization Expert*
+20+ years shipping production distributed systems across warehouse automation, supply chain, and industrial integration. I take brittle legacy estates to reliable, high-throughput platforms — and lead the team through it, hands-on. Co-inventor on 2 issued US patents in serialized inventory + robotic fulfillment. Daily Claude Code + Model Context Protocol user.
 
-Welcome to my GitHub profile! With over 15 years of experience in the tech industry, I specialize in designing, developing, and maintaining robust, scalable enterprise integrations and APIs. My passion lies in optimizing large-scale integrations, transitioning legacy systems to modern microservices architectures, and driving innovations in cloud-native application development.
+Open to senior technical-leadership roles — Staff/Principal Engineer, Tech Lead Manager, or Engineering Manager. FT or contract; remote, hybrid, or Chicago-area.
 
-🏢 Currently @ : Open to new opportunities
+### Technologies
 
-🛠️ Technologies I work with :
-* Languages/Frameworks : C#, .NET, ASP.NET, Java, Spring Framework
-* Databases : Microsoft SQL Server, PostgreSQL, MongoDB, Azure Cosmos DB
-* Cloud : Azure, AWS (Lambda, Redshift, AWS SQS/SNS)
-* Tools : Jenkins, Terraform, Azure DevOps, Datadog, New Relic
+**Languages/Frameworks:** C# / .NET (ASP.NET, .NET Core, EF) · Go (Gin) · React · Java/Spring
 
+**Data:** MSSQL · PostgreSQL · MariaDB (Dolt) · MongoDB · Azure Cosmos DB
 
-📈 Projects:
+**Distributed / messaging:** NATS + JetStream · ActiveMQ · AWS SQS/SNS · event-driven · DDD · CQRS
 
-Here are some of the projects I'm proud of:
-* [Enterprise Integration System Modernization] : Led the architectural overhaul for a legacy system, introducing a microservices architecture that significantly boosted performance and scalability.
-* [Cloud Migration Initiative] : Spearheaded the migration of critical datasets to Azure and AWS cloud platforms, enhancing operational efficiency and reducing costs.
-* [Advanced Analytics Solution] : Developed an in-house analytics solution leveraging Power BI, integrating data across various platforms for enhanced decision-making.
+**Cloud:** Azure (AZ-204) · AWS (Lambda, Redshift, Glue)
 
-📫 How to reach me:
-* Email : mattkoloj@gmail.com
-* LinkedIn : linkedin.com/in/matthewkolodzej
+**Domain:** WCS/WES warehouse control & execution · EtherCAT · industrial integration
 
+**Tooling:** Jenkins · Terraform · Azure DevOps · Datadog · New Relic
 
-Feel free to fork or star my repositories if you find something that interests you!
+### Recent work
+
+Led delivery of a Go-based warehouse-control platform (WCS/WES) to its v1.0.0 production release at a Fortune-100 industrial manufacturer's distribution center.
+
+Modernized a national distributor's integration platform from batch to event-driven — 100M+ messages/day, latency cut from ~20 minutes to ~30 seconds.
+
+Refactored a legacy C#/.NET monolith into domain-based microservices (~10x throughput).
+
+### Patents
+
+US9367830B2 — Fulfilling orders for serialized products
+
+US9434543B2 — Managing an inventory comprising serialized products
+
+### Reach me
+
+Email: mattkoloj@gmail.com · LinkedIn: linkedin.com/in/mattkolodzej
